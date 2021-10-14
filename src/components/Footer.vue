@@ -6,7 +6,7 @@
           class="col-xl-6 col-bg-6 col-md-6 col-sm-12 pbelow"
           style="color: white;"
         >
-          <span>© 2020 Copyright: Hrishikesh Paul</span>
+          <span>© 2021 Copyright: Natain Bogdan</span>
         </div>
 
         <div class="col-xl-6 col-bg-6 col-md-6 col-sm-12">

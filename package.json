@@ -1,5 +1,5 @@
 {
-  "name": "hrpaul",
+  "name": "natain-portfolio",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -35,5 +35,16 @@
     "vue-template-compiler": "^2.6.11"
   },
   "keywords": [],
-  "description": ""
+  "description": "> This is a simple, minimal and responsive personal website template, built using vue-js, html and css.",
+  "main": ".eslintrc.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Natain/natain-portfolio.git"
+  },
+  "author": "Natain Bogdan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Natain/natain-portfolio/issues"
+  },
+  "homepage": "https://github.com/Natain/natain-portfolio#readme"
 }
