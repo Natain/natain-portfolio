@@ -1,4 +1,4 @@
-# Portfolio Template 🖐
+# Portfolio 🖐
 
 > This is a simple, minimal and responsive personal website template, built using vue-js, html and css.
 
